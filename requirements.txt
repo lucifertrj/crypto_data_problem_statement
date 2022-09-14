@@ -1,0 +1,8 @@
+numpy
+matplotlib
+wordcloud
+squarify
+seaborn
+pandas
+plotly
+ast
